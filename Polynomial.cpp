@@ -28,7 +28,8 @@ Polynomial::Polynomial(Dot d) {
         int order = findOrder();
         this->funcIndex = order;
         double Y = this->Y;
-        for(funcIndex = 0; funcIndex <= order; this->funcIndex = funcIndex + 1) {				findValue();
+        for(funcIndex = 0; funcIndex <= order; this->funcIndex = funcIndex + 1) {				
+            findValue();
             this->Y = Y;
         }
     }
