@@ -34,3 +34,4 @@ The last step is that we can use the produced function for each sensor and appro
 ![3Inputs3OutputsContinuation](https://user-images.githubusercontent.com/78736806/165167551-cab68529-0c64-459c-bf5f-21ef113d4d6c.jpg)
 ![3Inputs9OutputsWorkedExample](https://user-images.githubusercontent.com/78736806/165167554-e1a4d8f0-670f-40c7-ada4-f8e8b609ed80.jpg)
 ![5Inputs15Outputs](https://user-images.githubusercontent.com/78736806/165167560-9f333023-7139-4ff9-8899-fad13e7b95af.jpg)
+[Project Log Book Alex.docx](https://github.com/sagemat/Pollution-prediction-algorithm/files/8557913/Project.Log.Book.Alex.docx)
